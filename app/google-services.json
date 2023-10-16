@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "87737897302",
+    "firebase_url": "https://been-a-while-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "been-a-while",
+    "storage_bucket": "been-a-while.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87737897302:android:d345247659402acf2e46f7",
+        "android_client_info": {
+          "package_name": "com.example.beenawhile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYipL4FbDJmZGAc8cZvb-Tr6tU44oVmnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
